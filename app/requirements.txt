@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+sentence-transformers
+hdbscan
+scikit-learn
+numpy
+typing_extensions
+
